@@ -16,6 +16,7 @@ public:
 
 class Matakuliah {
 private:
+    string kodemk;
 
 };
 
