@@ -3,7 +3,7 @@ using namespace std;
 
 class Mahasiswa {
 public: 
-    
+    string nama;
 };
 
 int main()
